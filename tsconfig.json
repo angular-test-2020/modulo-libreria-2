@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "prueba-concepto-libreria-dos": [
+        "dist/prueba-concepto-libreria-dos/prueba-concepto-libreria-dos",
+        "dist/prueba-concepto-libreria-dos"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
