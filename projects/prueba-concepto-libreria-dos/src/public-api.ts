@@ -5,3 +5,4 @@
 export * from './lib/prueba-concepto-libreria-dos.service';
 export * from './lib/prueba-concepto-libreria-dos.component';
 export * from './lib/prueba-concepto-libreria-dos.module';
+export * from './lib/app-routing/app-routing.module';

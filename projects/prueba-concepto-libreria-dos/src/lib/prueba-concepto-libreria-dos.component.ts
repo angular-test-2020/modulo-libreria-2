@@ -2,11 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'lib-prueba-concepto-libreria-dos',
-  template: `
-    <p>
-      prueba-concepto-libreria-dos works!
-    </p>
-  `,
+  templateUrl: './prueba-concepto-libreria-dos.component.html',
   styles: [
   ]
 })
